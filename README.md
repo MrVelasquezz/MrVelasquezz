@@ -8,11 +8,11 @@
 - 💻 Coding is my Hobby
 - 📖 I'm glad to learn something New and always looking for some new Expirience!
 
-### Some personal skills
+## Some personal skills
 
-## Languages
+### Languages
 
-[(https://img.shields.io/static/v1?label=German&message=B2&color=success)][]
+[[Lnguages](https://img.shields.io/static/v1?label=German&message=B2&color=success)][]
 
 ### Contact me:
 
