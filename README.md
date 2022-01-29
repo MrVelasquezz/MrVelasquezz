@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there, I'm Igor - aka MrVelasquezz 👋 
 
-<!--
-**MrVelasquezz/MrVelasquezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Fullstack Developer!!
 
-Here are some ideas to get you started:
+- ☢ I just started to work on my first [Discord Bot][bot]!
+- 📜 I’m currently learning everything 
+- 👯 I’m friendly and I'm looking to collaborate with other content creators
+- 💻 Coding is my Hobby
+- 📖 I'm glad to learn something New and always looking for some new Expirience!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some personal skills
+
+## Languages
+
+[(https://img.shields.io/static/v1?label=German&message=B2&color=success)][]
+
+### Contact me:
+
+
+<br />
+
+
+
+<br />
+
+### Programing languages and Tools:
+
+
+
+<br />
+<br />
+
+[Bot]: https://github.com/MrVelasquezz/Discord-JS-Bot
