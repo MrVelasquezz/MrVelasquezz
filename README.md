@@ -12,7 +12,11 @@
 
 ### Languages
 
-![Languages](https://img.shields.io/static/v1?label=German&message=B2&color=success)
+[![Languages](https://img.shields.io/static/v1?label=German&message=B2&color=success)][Website]
+[![Languages](https://img.shields.io/static/v1?label=English&message=B2&color=blue)][Website]
+[![Languages](https://img.shields.io/static/v1?label=Russian&message=C2&color=red)][Website]
+[![Languages](https://img.shields.io/static/v1?label=Bulgarian&message=C1&color=important)][Website]
+[![Languages](https://img.shields.io/static/v1?label=Ukrainian&message=B2&color=yellow)][Website]
 
 ### Contact me:
 
@@ -31,3 +35,4 @@
 <br />
 
 [Bot]: https://github.com/MrVelasquezz/Discord-JS-Bot
+[Website]: https://github.com/MrVelasquezz
