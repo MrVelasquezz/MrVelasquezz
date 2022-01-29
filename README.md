@@ -20,6 +20,8 @@
 
 ### Contact me:
 
+[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/1107/PNG/512/1486051932-envatosocialnetworkbrandlogo_79100.png" />][Vk]
+
 
 <br />
 
@@ -36,3 +38,6 @@
 
 [Bot]: https://github.com/MrVelasquezz/Discord-JS-Bot
 [Website]: https://github.com/MrVelasquezz
+[Vk]: https://vk.com/neko_dragon
+[Telegram]: 
+[Instagram]: https://www.instagram.com/__cyber_fox__/
