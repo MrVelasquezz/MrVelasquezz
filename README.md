@@ -40,5 +40,4 @@
 [Bot]: https://github.com/MrVelasquezz/Discord-JS-Bot
 [Website]: https://github.com/MrVelasquezz
 [Vk]: https://vk.com/neko_dragon
-[Telegram]: 
 [Instagram]: https://www.instagram.com/__cyber_fox__
