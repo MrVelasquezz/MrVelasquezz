@@ -20,7 +20,8 @@
 
 ### Contact me:
 
-[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/1107/PNG/512/1486051932-envatosocialnetworkbrandlogo_79100.png" />][Vk]
+[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-32vk-4102593_113806.png" />][Vk]
+[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/1853/PNG/512/iconfinder-insta-4416094_116652.png" />][Instagram]
 
 
 <br />
