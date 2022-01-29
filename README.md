@@ -12,7 +12,7 @@
 
 ### Languages
 
-[![Languages](https://img.shields.io/static/v1?label=German&message=B2&color=success)][]
+![Languages](https://img.shields.io/static/v1?label=German&message=B2&color=success)
 
 ### Contact me:
 
