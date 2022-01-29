@@ -41,4 +41,4 @@
 [Website]: https://github.com/MrVelasquezz
 [Vk]: https://vk.com/neko_dragon
 [Telegram]: 
-[Instagram]: https://www.instagram.com/__cyber_fox__/
+[Instagram]: https://www.instagram.com/__cyber_fox__
