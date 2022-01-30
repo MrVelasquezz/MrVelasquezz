@@ -35,9 +35,10 @@
 
 
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrVelasquezz)]
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrVelasquezz&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrVelasquezz&show_icons=true&theme=city_lights&hide_border=true)
 
 [Bot]: https://github.com/MrVelasquezz/Discord-JS-Bot
 [Website]: https://github.com/MrVelasquezz
