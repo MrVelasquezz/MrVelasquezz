@@ -43,12 +43,12 @@
 [<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/56/PNG/512/metro_adobeillustrator_11462.png" />][Website]
 [<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" />][Website]
 
-<details><summary>List</summary>
+<br />
+<details><summary>List of **Programing languages and tools**</summary>
 <p>
 
 #### Here is a written list
 
-    ```ruby
       - HTML 5
       - CSS 3
       - JavaScript ES5+
@@ -65,8 +65,6 @@
       - Adobe Photoshop CC
       - Adobe Illustrator CC
       - Filmora / Sony Vegas
-    ```
-
 </p>
 </details>
 
