@@ -37,6 +37,8 @@
 <br />
 <br />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrVelasquezz&show_icons=true&theme=radical)
+
 [Bot]: https://github.com/MrVelasquezz/Discord-JS-Bot
 [Website]: https://github.com/MrVelasquezz
 [Vk]: https://vk.com/neko_dragon
