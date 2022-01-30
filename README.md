@@ -74,10 +74,20 @@
 
 [<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" />][Website]
 [<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/729/PNG/512/paypal_icon-icons.com_62739.png" />][Website]
-
+[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/1222/PNG/512/1492616980-2-google-maps-gps-navigation-traffice-direction_83420.png" />][Website]
 
 <br />
 <br />
+<details><summary>List of APIs</summary>
+<p>
+
+#### Here is a written list
+
+      - Discord API (Discord bots)
+      - PayPal API  (Payments on website)
+      - Google Maps API (Resolving of distance and other)
+</p>
+</details>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrVelasquezz&show_icons=true&theme=city_lights&hide_border=true)
 
