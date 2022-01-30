@@ -68,9 +68,8 @@
       - Filmora / Sony Vegas
 </p>
 </details>
-<br />
 
-### List of API's, i have worked with
+### List of API's, i have worked with:
 
 [<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" />][Website]
 [<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/729/PNG/512/paypal_icon-icons.com_62739.png" />][Website]
