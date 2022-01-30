@@ -45,7 +45,7 @@
 
 <br />
 <br />
-<details><summary>List of **Programing languages and tools**</summary>
+<details><summary>List of programing languages and tools</summary>
 <p>
 
 #### Here is a written list
@@ -68,8 +68,6 @@
       - Filmora / Sony Vegas
 </p>
 </details>
-
-
 <br />
 
 ### List of API's, i have worked with
