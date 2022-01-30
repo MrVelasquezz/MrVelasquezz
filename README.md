@@ -1,5 +1,5 @@
 ## |-----| Hi there, I'm Igor - aka MrVelasquezz 👋 |-----|
-|:---:||:---:||:---:|
+|:---:|:---:|:---:|
 ## I'm a Fullstack Developer!!
 
 - ☢ I just started to work on my first [Discord Bot][bot]!
