@@ -74,8 +74,7 @@
 [<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png" />][Website]
 [<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/729/PNG/512/paypal_icon-icons.com_62739.png" />][Website]
 [<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/1222/PNG/512/1492616980-2-google-maps-gps-navigation-traffice-direction_83420.png" />]
-[<img align="left" alt="Vk" width="26px" src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" />]
-[Website]
+[<img align="left" alt="Vk" width="26px" src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" />][Website]
 
 <br />
 <br />
@@ -88,6 +87,7 @@
       - PayPal API  (Payments on website)
       - Google Maps API (Resolving of distance and other)
       - Puppeteer (parsing)
+      
 </p>
 </details>
 
