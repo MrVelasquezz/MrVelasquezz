@@ -1,7 +1,7 @@
 ## Hi there, I'm Igor - aka MrVelasquezz 👋
 ## I'm a Fullstack Developer!!
 
-- ☢ I just started to work on my first [Discord Bot][bot]!
+- ☢ I just ended to work on my first production [Discord Bot][bot]!
 - 📜 I’m currently learning everything 
 - 👯 I’m friendly and I'm looking to collaborate with other content creators
 - 💻 Coding is my Hobby
@@ -93,7 +93,7 @@
 
 ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrVelasquezz&show_icons=true&theme=city_lights&hide_border=true)
 
-[Bot]: https://github.com/MrVelasquezz/Discord-JS-Bot
+[Bot]: https://github.com/MrVelasquezz/Discord-Clan-Bot
 [Website]: https://github.com/MrVelasquezz
 [Vk]: https://vk.com/neko_dragon
 [Instagram]: https://www.instagram.com/__cyber_fox__
