@@ -1,11 +1,12 @@
 ## Hi there, I'm Igor - aka MrVelasquezz 👋
 ## I'm a Fullstack Developer!!
 
-- ☢ I just ended to work on my first production [Discord Bot][bot]!
+- ☢ Now I am working on my Telegram bots!
 - 📜 I’m currently learning everything 
 - 👯 I’m friendly and I'm looking to collaborate with other content creators
 - 💻 Coding is my Hobby
 - 📖 I'm glad to learn something New and always looking for some new Expirience!
+- 🚫 Couple of my repos are hidden, because of some people, that was copying my code. 🚫
 
 ## Here are some my **personal skills**
 
