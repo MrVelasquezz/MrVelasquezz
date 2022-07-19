@@ -89,6 +89,7 @@
       - PayPal API  (Payments on website)
       - Google Maps API (Resolving of distance and other)
       - Puppeteer (parsing)
+      - Telegram API (Telegram bots)
       
 </p>
 </details>
