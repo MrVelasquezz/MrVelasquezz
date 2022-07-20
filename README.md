@@ -25,7 +25,7 @@
 
 <br />
 
-### Programing languages and Tools:
+### Programing languages:
 
 [<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" />][Website]
 [<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" />][Website]
@@ -38,11 +38,6 @@
 [<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" />][Website]
 [<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />][Website]
 [<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" />][Website]
-[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />][Website]
-[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189952.png" />][Website]
-[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_photoshop_macos_bigsur_icon_190436.png" />][Website]
-[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/56/PNG/512/metro_adobeillustrator_11462.png" />][Website]
-[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" />][Website]
 
 <br />
 <br />
@@ -62,7 +57,23 @@
       - MongoDb (Mongoose)
       - MariaDb
       - Vue.Js 3
-      - Git
+</p>
+</details>
+
+### List of tools, which i am using:
+
+[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189952.png" />][Website]
+[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_photoshop_macos_bigsur_icon_190436.png" />][Website]
+[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/56/PNG/512/metro_adobeillustrator_11462.png" />][Website]
+[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" />][Website]
+
+<br />
+<br />
+
+<details><summary>List of Tools</summary>
+<p>
+#### Here is a written list
+      
       - Visual Studio Code / Sublime Code / Vim / ReplIt
       - Adobe Photoshop CC
       - Adobe Illustrator CC
