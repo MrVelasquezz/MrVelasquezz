@@ -14,7 +14,7 @@
 - 💰 I like to work on hard and heavy projects, where man can loose his mind. I like making "rang systems" and corporative apps
 - 🦾 I like to work with AI. (One of my AI's helped me not to sit in front of computer for 7 hours a day) 
 
-## Actualy I have some plans for this year!
+### Actualy I have some plans for this year!
 
 - 🔋 I want to learn C#, C++, .Net, TipeScript and I want to create my own portfolia website😅 
 
