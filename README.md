@@ -6,7 +6,13 @@
 - 👯 I’m friendly and I'm looking to collaborate with other content creators
 - 💻 Coding is my Hobby
 - 📖 I'm glad to learn something New and always looking for some new Expirience!
-- 🚫 Couple of my repos are hidden, because of some people, that was copying my code. 🚫
+- 🚫 Couple of my repos are hidden, because of some people, that was copying my code.
+
+### Some updates on 22.07.2022
+
+- 🔬 I like experiments and I just started to work with Arduino
+- 💰 I like to work on hard and heavy projects, where man can loose his mind. I like making "rang systems" and corporative apps
+- 🦾 I like to work with AI. (One of my AI's helped me not to sit in front of computer for 7 hours a day) 
 
 ## Here are some my **personal skills**
 
