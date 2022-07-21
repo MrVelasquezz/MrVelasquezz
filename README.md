@@ -14,11 +14,15 @@
 - 💰 I like to work on hard and heavy projects, where man can loose his mind. I like making "rang systems" and corporative apps
 - 🦾 I like to work with AI. (One of my AI's helped me not to sit in front of computer for 7 hours a day) 
 
+## Actualy I have some plans for this year!
+
+- 🔋 I want to learn C#, C++, .Net, TipeScript and I want to create my own portfolia website😅 
+
 ## Here are some my **personal skills**
 
 ### Languages
 
-[![Languages](https://img.shields.io/static/v1?label=German&message=B2&color=success)][Website]
+[![Languages](https://img.shields.io/static/v1?label=German&message=C1&color=success)][Website]
 [![Languages](https://img.shields.io/static/v1?label=English&message=B2&color=blue)][Website]
 [![Languages](https://img.shields.io/static/v1?label=Russian&message=C2&color=red)][Website]
 [![Languages](https://img.shields.io/static/v1?label=Bulgarian&message=C1&color=important)][Website]
