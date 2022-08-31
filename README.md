@@ -32,7 +32,7 @@
 
 [<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-32vk-4102593_113806.png" />][Vk]
 [<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/1853/PNG/512/iconfinder-insta-4416094_116652.png" />][Instagram]
-[<img align="left" alt="Vk" width="26px" src="src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][Telegram]
+[<img align="left" alt="Vk" width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png"   />][Telegram]
 
 <br />
 
