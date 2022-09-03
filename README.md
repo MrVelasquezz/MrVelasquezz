@@ -38,10 +38,10 @@
 
 ### Programing languages:
 
-[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" />][Website]
-[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" />][Website]
-[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" />][Website]
-[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" />][Website]
+[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" />]
+[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" />]
+[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" />]
+[<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_node_icon_130301.png" />]
 [<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" />][Website]
 [<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" />][Website]
 [<img align="left" alt="Vk" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" />][Website]
