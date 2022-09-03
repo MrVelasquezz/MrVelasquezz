@@ -98,6 +98,7 @@
 [<img align="left" alt="Maps" width="26px" src="https://cdn.icon-icons.com/icons2/1222/PNG/512/1492616980-2-google-maps-gps-navigation-traffice-direction_83420.png" />][Website]
 [<img align="left" alt="Puppeteer" width="26px" src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" />][Website]
 [<img align="left" alt="TgApi" width="26px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][Website]
+[<img align="left" alt="TgApi" width="26px" src="https://telegraf.js.org/media/logo.svg" />][Website]
 
 <br />
 <br />
@@ -111,6 +112,7 @@
       - Google Maps API (Resolving of distance and other)
       - Puppeteer (parsing)
       - Telegram API (Telegram bots)
+      - Telegraf Js (Telegram bots)
       
 </p>
 </details>
