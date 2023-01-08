@@ -16,7 +16,7 @@
 
 ### Actualy I have some plans for this year!
 
-- 🔋 I want to learn C#, C++, .Net, TipeScript and I want to create my own portfolia website😅 
+- 🔋 I want to learn C#, .Net, TipeScript and I want to create my own portfolia website😅 
 
 ## Here are some my **personal skills**
 
