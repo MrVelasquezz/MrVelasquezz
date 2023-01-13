@@ -35,7 +35,7 @@
 
 <br />
 
-### Programing languages:
+### Programing languages, Frameworks and Libraries:
 
 [<img align="left" alt="HTML" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" />][Website]
 [<img align="left" alt="CSS" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" />][Website]
