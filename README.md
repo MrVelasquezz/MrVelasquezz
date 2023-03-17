@@ -13,6 +13,7 @@
 - 🔬 I like experiments and I just started to work with Arduino
 - 💰 I like to work on hard and heavy projects, where man can loose his mind. I like making "rang systems" and corporative apps
 - 🦾 I like to work with AI. (One of my AI's helped me not to sit in front of computer for 7 hours a day) 
+- 🧳Actualy I am learning now C/C++ in my university, so may be I will make some projects with this langs
 
 ### Actualy I have some plans for this year!
 
@@ -48,6 +49,8 @@
 [<img align="left" alt="Mongo" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" />][Website]
 [<img align="left" alt="Mysql" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />][Website]
 [<img align="left" alt="Vue" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" />][Website]
+[<img align="left" alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_sourcec_342.png" />][Website]
+[<img align="left" alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_cppsource_c_341.png" />][Website]
 
 <br />
 <br />
@@ -67,6 +70,7 @@
       - MongoDb (Mongoose)
       - MariaDb
       - Vue.Js 3
+	  - C/C++
 </p>
 </details>
 
