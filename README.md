@@ -13,11 +13,11 @@
 - 🔬 I like experiments and I just started to work with Arduino
 - 💰 I like to work on hard and heavy projects, where man can loose his mind. I like making "rang systems" and corporative apps
 - 🦾 I like to work with AI. (One of my AI's helped me not to sit in front of computer for 7 hours a day) 
-- 🧳Actualy I am learning now C/C++ in my university, so may be I will make some projects with this langs
 
-### Actualy I have some plans for this year!
-
-- 🔋 I want to learn C#, .Net, TypeScript and I want to create my own portfolia website😅 
+### Some special skills on 04.04.2023:
+- 🧳I am learning now C/C++ in my university, so may be I will make some projects with this langs
+- 💹Now I feel better with databases, webscraping, automatisation and backend development
+- 🕸Some new plans are to learn and to earn skills in datascience and to learn more about neural networks
 
 ## Here are some my **personal skills**
 
