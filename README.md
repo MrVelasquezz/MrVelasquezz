@@ -48,6 +48,7 @@
 [<img align="left" alt="Tailwind" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" />][Website]
 [<img align="left" alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />][Website]
 [<img align="left" alt="Mongo" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" />][Website]
+[<img align="left" alt="Mongo" width="26px" src="https://www.svgrepo.com/show/354272/redis.svg" />][Website]
 [<img align="left" alt="Mysql" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" />][Website]
 [<img align="left" alt="Vue" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png" />][Website]
 [<img align="left" alt="C" width="26px" src="https://cdn.icon-icons.com/icons2/7/PNG/128/mimetypes_sourcec_342.png" />][Website]
@@ -69,6 +70,7 @@
       - Bootstrap 4/5
       - Python 3
       - MongoDb (Mongoose)
+      - Redis
       - MariaDb
       - Vue.Js 3
 	  - C/C++
